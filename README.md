@@ -17,7 +17,7 @@ The list should be defined in a format that's compatible with the input format. 
 Move TripSorter folder to your web-root directory e-g: htdocs, www or public_html
 
 Run following command in order to install dependencies (I assume you already have composer installed and setup)
-```
+```sh
 composer update
 composer dump-autoload
 ```
