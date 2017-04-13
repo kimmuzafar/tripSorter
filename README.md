@@ -13,7 +13,7 @@ For instance the API should be able to take an unordered set of boarding cards, 
 
 The list should be defined in a format that's compatible with the input format. The API is to be an internal PHP API so it will only communicate with other parts of a PHP application, not server to server, nor server to client. Use PHP-doc to document the input and output your API accepts / returns.
 
-## Setup
+## Setup & Run
 Move TripSorter folder to your web-root directory e-g: htdocs, www or public_html
 
 Run following command in order to install dependencies (I assume you already have composer installed and setup)
@@ -23,12 +23,12 @@ composer dump-autoload
 ```
 
 ### Run
-Open your browser and use following URL
+Open your browser and navigate to following URL to see the result
 ```
 http://localhost/TripSorter/index.php
 ```
 
-### Output
+#### Output
 ```
 1. Take train 78A from Madrid to Barcelona. Sit in seat 45B.
 2. Take the airport bus from Barcelona to Gerona Airport. No seat assignment.
