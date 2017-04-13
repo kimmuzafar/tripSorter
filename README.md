@@ -67,7 +67,7 @@ echo (new Trip($unorderedBoardingCards))->generate();
 
   More cards with different properties and attributes can be added in "IsdPro\BoardingCards" namespace.
 
-## TODO
+## Todos
 - Write Tests
 - Refactor code with improved oop e-g: Abstract classes, Interfaces and Factory
 - Improve documentation
