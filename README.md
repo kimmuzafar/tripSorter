@@ -33,7 +33,7 @@ http://localhost/TripSorter/index.php
 ## Random Boarding Cards to sort
 This random boarding cards array is located in index.php at the root of TripSorter, You can re-sort the array if you want.
 
-```
+```php
 <?php
 
 require_once __DIR__ . '/vendor/autoload.php';
