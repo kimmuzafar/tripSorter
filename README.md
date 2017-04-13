@@ -29,6 +29,7 @@ http://localhost/TripSorter/index.php
 ```
 
 #### Output
+Below output is sorted result of $unorderedBoardingCards array index.php, you can update it with more boarding cards and run it again to see them sorted in ascending order.
 ```
 1. Take train 78A from Madrid to Barcelona. Sit in seat 45B.
 2. Take the airport bus from Barcelona to Gerona Airport. No seat assignment.
