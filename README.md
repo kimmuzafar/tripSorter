@@ -18,8 +18,8 @@ Move TripSorter folder to your web-root directory e-g: htdocs, www or public_htm
 
 Run following command in order to install dependencies (I assume you already have composer installed and setup)
 ```sh
-composer update
-composer dump-autoload
+$ composer update
+$ composer dump-autoload
 ```
 
 ### Run
