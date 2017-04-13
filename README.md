@@ -22,7 +22,7 @@ composer update
 composer dump-autoload
 ```
 
-## Run
+### Run
 Open your browser and use following URL
 ```
 http://localhost/TripSorter/index.php
