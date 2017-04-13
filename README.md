@@ -24,7 +24,7 @@ $ composer dump-autoload
 
 ### Run
 Open your browser and navigate to following URL to see the result
-```
+```sh
 http://localhost/TripSorter/index.php
 ```
 
